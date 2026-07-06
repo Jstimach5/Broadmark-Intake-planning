@@ -1,5 +1,9 @@
 # Photo / Video Shot List
 
+> **Shot #2 (anchored before/after pairs) is partially covered already** — existing
+> before/after photos live in the "broadmark photos" file (Downloads folder). See
+> [`creative-library.md`](creative-library.md) for the catalog and what's still missing.
+
 **Gear needed:** your phone (shoot 4K, horizontal AND vertical takes), a $30 phone
 tripod, a GoPro or phone chest/cab mount (nice-to-have), and ideally a $300-ish drone or
 a friend with one (nice-to-have later, not a blocker). Golden hour (first/last 2 hours
