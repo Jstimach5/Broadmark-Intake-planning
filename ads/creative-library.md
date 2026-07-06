@@ -53,16 +53,24 @@ material, likely including the missing angles below.
 ## Production note — Canva
 
 All 21 curated photos are uploaded to the owner's Canva folder
-(`canva.com/folder/FAHOn4pcrTk`). **First two ad creatives are built and saved in the
-Canva account** (from the brush-01 before/after pair, headline "Take Your Land Back —
-Cleared in a Day" / "Cleared in a Day"):
+(`canva.com/folder/FAHOn4pcrTk`).
+
+**STANDING RULE: real job photos ONLY — no AI-generated or stock imagery, especially
+equipment.** (One generated draft inserted a fake tractor; it was caught and replaced
+with the owner's actual photos. Audit every generated design's image fills before use.)
+
+**Launch creatives — on-brand (sage #617455 / cream #F2EDC9 / black #20241C), verified
+to contain only the owner's brush-01 before/after photos:**
 
 | Design | Format | Edit link |
 |---|---|---|
-| Facebook Ad: Before-and-After Land Clearing | Square feed post | https://www.canva.com/d/257wCHs-PB1oXTF |
-| Stacked Comparison Ad: Landscape Cleanup | 9:16 Stories/Reels | https://www.canva.com/d/H7U0IdLAz5AyP8r |
+| Facebook Post – Take Your Land Back | 1080×1080 square feed | https://www.canva.com/d/PWJeu7x_piDjUkw |
+| Instagram Story Ad – Cleared in a Day | 1080×1920 Stories/Reels | https://www.canva.com/d/GKPAscDaXD9bvq5 |
 
-Review in Canva, tweak text/layout to taste, then **Share → Download → JPG** and upload
-as the creatives for Campaign 1 ads `BA-Reclaim-Sq-v1` and `BA-Reclaim-Story-v1`.
-Alternate generated candidates (if the saved ones aren't right) can be regenerated on
-request. Remaining angles get the same treatment as their photos arrive.
+To ship: open in Canva, adjust the before-photo crop if desired (double-click the image),
+replace `[PHONE]` in the square ad's CTA line, then **Share → Download → JPG** and upload
+as Campaign 1 ads `BA-Reclaim-Sq-v1` and `BA-Reclaim-Story-v1`.
+
+Two earlier off-brand drafts remain in the Canva account and can be deleted:
+"Facebook Ad: Before-and-After Land Clearing" and "Stacked Comparison Ad: Landscape
+Cleanup". Remaining ad angles get the same treatment as their photos arrive.
