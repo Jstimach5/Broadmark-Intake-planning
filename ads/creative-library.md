@@ -53,6 +53,16 @@ material, likely including the missing angles below.
 ## Production note — Canva
 
 All 21 curated photos are uploaded to the owner's Canva folder
-(`canva.com/folder/FAHOn4pcrTk`). Ad creative assembly (before/after split-screens,
-headline overlays, 1:1 and 9:16 crops) can be built programmatically in that Canva
-account from these assets — the next build step after the catalog completes.
+(`canva.com/folder/FAHOn4pcrTk`). **First two ad creatives are built and saved in the
+Canva account** (from the brush-01 before/after pair, headline "Take Your Land Back —
+Cleared in a Day" / "Cleared in a Day"):
+
+| Design | Format | Edit link |
+|---|---|---|
+| Facebook Ad: Before-and-After Land Clearing | Square feed post | https://www.canva.com/d/257wCHs-PB1oXTF |
+| Stacked Comparison Ad: Landscape Cleanup | 9:16 Stories/Reels | https://www.canva.com/d/H7U0IdLAz5AyP8r |
+
+Review in Canva, tweak text/layout to taste, then **Share → Download → JPG** and upload
+as the creatives for Campaign 1 ads `BA-Reclaim-Sq-v1` and `BA-Reclaim-Story-v1`.
+Alternate generated candidates (if the saved ones aren't right) can be regenerated on
+request. Remaining angles get the same treatment as their photos arrive.
