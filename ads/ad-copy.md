@@ -8,8 +8,7 @@
 > & Monroe counties", town names (Belleville, New Boston, Willis, Ypsilanti, Milan,
 > Saline, Flat Rock, Carleton).
 >
-> ⚠ **Do not use "insured" in any ad until the general liability policy is confirmed**
-> (see README → Still open). Every other claim below is safe to run now.
+> Insurance confirmed ($400/mo) — "fully insured" is cleared for use in all ads.
 
 ## Angle 1 — "Reclaim Your Overgrown Land" (reclaim + before/after + small acreage)
 
@@ -76,7 +75,7 @@
 - **Target:** RETARGETING ONLY — video viewers (50%+), page engagers, site visitors, form-openers who didn't submit (past 30–60 days)
 - **Problem:** Saw you, didn't act; needs a trust nudge and a reason now
 - **Headline:** *"Still Looking at That Overgrown Spot? Quotes Are Free."*
-- **Primary text:** "Owner-operated, fully insured ⚠*(drop "fully insured" until the GL policy is confirmed)*, purpose-built Cat forestry mulcher — not a rental with a brush hog. You talk directly to the person running the machine. Send 2–3 photos, get a real number, usually same day. [Season note: summer/fall schedule is filling.]"
+- **Primary text:** "Owner-operated, fully insured, purpose-built Cat forestry mulcher — not a rental with a brush hog. You talk directly to the person running the machine. Send 2–3 photos, get a real number, usually same day. [Season note: summer/fall schedule is filling.]"
 - **CTA:** Get Quote → instant form
 - **Creative:** Equipment beauty shot + your face; 15s "here's how a quote works" clip; review screenshot once available
 - **Lead quality:** Highest close rate of any angle — warm audience

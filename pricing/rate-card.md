@@ -12,10 +12,10 @@ allocation uses $3,750 as a placeholder — enter the exact payment in the calcu
 | Fuel | $25–34/hr | 275XE mulching burn 5–6 gal/hr (7 in heavy material) × ~$5.00–5.60 diesel; off-road dyed diesel saves $0.50–1.00/gal |
 | Mulcher teeth | $4–6/hr clean ground; **$10–20+/hr in rock** | HM418 38-tooth set ≈ $4,200–6,100 aftermarket; carbide life 200–500 hrs normal, 30–50 hrs in rock/hardwood |
 | Maintenance + tracks | $8–15/hr | Mulching halves track life (~$3,500/set); ~1 hr daily maintenance per work day |
-| Insurance (GL + equipment) | ~$7/hr | ⚠ Placeholder — coverage/cost not yet confirmed; get the GL quote and update |
+| Insurance (GL + equipment) | **~$9/hr** | Confirmed: $400/mo = $4,800/yr ÷ ~46 billable hrs/mo |
 | Truck/trailer wear | $3–5/hr | Paid off, but tires/fuel/brakes on mobilization |
 | Your wage | $25–30/hr | Pay yourself as a cost; profit comes on top |
-| **Cash cost (everything but the loan)** | **≈$87/hr** | |
+| **Cash cost (everything but the loan)** | **≈$89/hr** | |
 | **All-in at target utilization** | **≈$165–175/hr** | **Walk-away floor: $190/hr effective. Healthy target: $225+/hr.** |
 
 **Payment coverage math:** a typical full-day job ($1,800 + $150 mobilization) minus

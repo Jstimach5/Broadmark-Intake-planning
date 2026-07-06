@@ -5,7 +5,7 @@
 ## Phase 1 — Foundation (Week 1, mostly desk work)
 
 - [x] ▲ Answer the 10 questions in [`README.md`](README.md#confirmed-facts) — done; still open: exact $3,7XX payment digits, insurance, domain
-- [ ] ▲ **Confirm or obtain general liability insurance** — gates every "insured" claim on the site and in ads, and it's real risk on customer property (~$1.5–4k/yr for $1M GL; get 2–3 quotes)
+- [x] ▲ ~~Confirm or obtain general liability insurance~~ — **confirmed: $400/mo**; "insured" claims cleared everywhere, $9/hr baked into the calculator
 - [ ] ▲ Enter the exact $3,7XX loan payment into the calculator and dashboard
 - [ ] ▲ Positioning one-liner: "Southeast Michigan's owner-operated forestry mulching — cleared in a day, no piles, no torn-up ground" (adjust to taste; used everywhere)
 - [ ] ▲ Build the Google Sheet: Tab 1 lead tracker ([template](tracking/lead-tracker-template.csv)), Tab 2 quote calculator ([template](pricing/calculator-template.csv)), Tab 3 dashboard ([spec](tracking/dashboard-spec.md))
@@ -16,7 +16,7 @@
 
 ## Phase 2 — Website (Weeks 2–3)
 
-- [ ] ▲ Pick a builder tier that allows embed code; build the 10 pages ([structure](website/site-structure.md)) — homepage first, service pages can start as sections
+- [x] ▲ ~~Pick a builder / build the 10 pages~~ — **done: complete static site built in [`website/site/`](website/site/)** (10 pages, real photos, privacy policy). Launch steps in [`website/site/README.md`](website/site/README.md): replace [PHONE], paste Jobber embed, deploy free on Netlify/GitHub Pages
 - [ ] ▲ Embed the Jobber request form on Home + Quote Request pages; test a submission end-to-end (push + email arrive?)
 - [ ] ▲ Publish the privacy policy page (Meta will not publish a lead form without it)
 - [ ] ▲ Install the Meta pixel; set a Lead event on the form thank-you

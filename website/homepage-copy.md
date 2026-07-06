@@ -3,9 +3,7 @@
 Business name (Broadmark), region, and towns are filled in. The only placeholder left
 is `[Phone]`. Copy is written to be pasted section-by-section into the builder.
 
-> ⚠ **Insurance gate:** the trust bar and FAQ below claim "insured." Confirm the general
-> liability policy (or buy one) BEFORE publishing those two spots — everything else can
-> go live immediately.
+> Insurance is confirmed ($400/mo) — every claim below is cleared to publish.
 
 ---
 
@@ -30,8 +28,8 @@ your property and get a real number, usually same day.
 
 ## 3. Trust bar
 
-Licensed & Insured ⚠*(publish only once the GL policy is confirmed)* · Owner-Operated ·
-Based in Sumpter Township · ★★★★★ Google Reviews *(add once you have 5+)* ·
+Licensed & Insured · Owner-Operated · Based in Sumpter Township ·
+★★★★★ Google Reviews *(add once you have 5+)* ·
 You talk directly to the person running the machine.
 
 ---
@@ -153,7 +151,6 @@ books up fastest, so the earlier you reach out, the better.
 
 **Are you insured?**
 Yes — fully insured, and happy to provide a certificate of insurance on request.
-⚠*(Publish this answer only once the GL policy is confirmed.)*
 
 ---
 

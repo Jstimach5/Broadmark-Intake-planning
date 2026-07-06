@@ -60,9 +60,9 @@ machine-hours/month).
 
 - Loan allocation at the target utilization: $3,750 ÷ ~46 hrs ≈ **$80 per machine-hour**
   (it falls as you book more hours — see `pricing/calculator-spec.md`).
-- Cash operating cost (fuel, teeth, maintenance, insurance, truck, your wage) ≈
-  **$87/hr** → all-in ≈ **$165–175/hr** at target utilization. Walk-away floor:
-  **$190/hr effective**.
+- Cash operating cost (fuel, teeth, maintenance, insurance at the confirmed $400/mo,
+  truck, your wage) ≈ **$89/hr** → all-in ≈ **$165–175/hr** at target utilization.
+  Walk-away floor: **$190/hr effective**.
 - A typical full-day job ($1,800 + $150 mobilization) throws off ≈ **$1,250 gross
   profit** → the payment is covered by **~3 full-day jobs (~27 machine-hours)** per month.
 - At the $10k goal: gross profit ≈ $6,100/mo → **payment coverage ≈ 1.6×** (the 2.0×
@@ -92,7 +92,6 @@ machine-hours/month).
 ## Still open (each sharpens a number — none block the build)
 
 1. **Exact loan payment digits** ($3,7XX) — enter into the calculator and dashboard.
-2. **Insurance** — unknown. ⚠ **This one gates launch**: the website and ads say
-   "insured," so confirm the general liability policy (or get one, ~$1.5–4k/yr for $1M
-   GL) *before* publishing that claim. It's also real risk working on customer property.
+2. ~~Insurance~~ — **CONFIRMED: $400/mo ($4,800/yr)**. All "insured" claims on the site
+   and in ads are cleared to publish. Cost is baked into the calculator at ~$9/machine-hour.
 3. **Domain** — e.g. `broadmarkmulching.com`; check availability at website build.

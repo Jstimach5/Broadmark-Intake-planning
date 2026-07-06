@@ -14,7 +14,7 @@ Fuel price ($/gal),5.25
 Tooth wear ($/hr — use 15 for rocky ground),5
 Maintenance + tracks ($/hr),12
 Operator wage ($/hr),30
-Insurance ($/hr),7
+Insurance ($/hr — confirmed $400/mo),9
 Loan allocation ($/hr),80
 Truck cost ($/mile),1.20
 Target margin (0.30 = 30%),0.30

@@ -34,7 +34,7 @@ a hard requirement before Meta will publish a lead form.
    and **Call/Text [number]**.
 2. **Main offer strip** — one sentence: free quotes, most within 24 hours, most jobs
    done in 1–2 days.
-3. **Trust bar** — Licensed & insured (once policy confirmed) • Owner-operated •
+3. **Trust bar** — Licensed & insured • Owner-operated •
    Sumpter Township-based • Google review
    stars (once you have 5+) • "You talk to the person running the machine."
 4. **Services grid** — 6 cards with photo + 1-liner: Brush & Overgrowth Clearing,
