@@ -30,16 +30,17 @@ Tab 2 ("Calculator") of the Google Sheet.
   - **QUOTE = the HIGHER of cost-plus vs. rate-card** — never quote below either
   - *Gross profit*, *GP%*, *effective $/machine-hr*, and *share of the monthly equipment
     payment this job covers*
-- **Sanity flags:** effective rate below $175/hr → RED; gross profit under 25% → RED.
+- **Sanity flags:** effective rate below $190/hr → RED; gross profit under 25% → RED.
   If either is red, re-scope or walk away — see the discount rules in
   [`rate-card.md`](rate-card.md).
 
 ## Loan allocation note
 
-The default `Loan allocation = $53/hr` assumes ~1,000 billable machine-hours/yr
-(~83/mo) against a ~$4,400/mo payment. If you're running fewer billable hours, raise it
-(e.g., at 40 hrs/mo the true allocation is ~$110/hr) — otherwise "profitable" quotes
-quietly stop covering the payment.
+The default `Loan allocation = $80/hr` is calibrated to the **$10,000/mo goal**:
+$3,750/mo payment (0% loan — **enter your exact $3,7XX figure** in the payment cell)
+÷ ~46 target machine-hours/month. The allocation falls as utilization grows — at
+83 hrs/mo it's ~$45/hr — but don't lower it until you're *actually booking* those
+hours, otherwise "profitable" quotes quietly stop covering the payment.
 
 ## After each job
 

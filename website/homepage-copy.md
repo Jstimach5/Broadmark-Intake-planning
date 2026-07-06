@@ -1,7 +1,11 @@
 # Homepage Copy (build-ready)
 
-Fill in every bracketed placeholder: `[Business Name]`, `[Region]`, `[Town]`, `[County]`,
-`[Phone]`, `[X miles]`. Copy is written to be pasted section-by-section into the builder.
+Business name (Broadmark), region, and towns are filled in. The only placeholder left
+is `[Phone]`. Copy is written to be pasted section-by-section into the builder.
+
+> ⚠ **Insurance gate:** the trust bar and FAQ below claim "insured." Confirm the general
+> liability policy (or buy one) BEFORE publishing those two spots — everything else can
+> go live immediately.
 
 ---
 
@@ -9,8 +13,9 @@ Fill in every bracketed placeholder: `[Business Name]`, `[Region]`, `[Town]`, `[
 
 **Headline:** Overgrown Land Cleared — Without Tearing Up Your Property
 
-**Subhead:** Forestry mulching for [Region] — brush, trails, fence lines, and hunting
-property. One machine, one visit. No burn piles, no hauling, no mess left behind.
+**Subhead:** Forestry mulching for southeast Michigan — brush, trails, fence lines, and
+hunting property across western Wayne, Washtenaw, and Monroe counties. One machine, one
+visit. No burn piles, no hauling, no mess left behind.
 
 **Buttons:** `Get a Fast Quote` (anchors to form) · `Call or Text [Phone]` (tap-to-call)
 
@@ -25,7 +30,8 @@ your property and get a real number, usually same day.
 
 ## 3. Trust bar
 
-Licensed & Insured · Owner-Operated · Based in [County] · ★★★★★ Google Reviews ·
+Licensed & Insured ⚠*(publish only once the GL policy is confirmed)* · Owner-Operated ·
+Based in Sumpter Township · ★★★★★ Google Reviews *(add once you have 5+)* ·
 You talk directly to the person running the machine.
 
 ---
@@ -52,7 +58,7 @@ You talk directly to the person running the machine.
 **Heading:** See the Difference a Day Makes
 
 Caption format for each pair: "[Size] of [vegetation] — [time taken]. [Town/area]."
-Example: "2 acres of overgrown pasture — 1 day. [Town]."
+Example: "2 acres of overgrown pasture — 1 day. Belleville."
 
 ---
 
@@ -88,10 +94,12 @@ that matters for your property:
 
 ## 8. Service area section
 
-**Heading:** Serving [Region]
+**Heading:** Serving Southeast Michigan
 
-Based in [Town]. Serving [list of counties/towns] — generally within [X miles].
-Farther out? No problem for full-day and multi-day jobs; just ask.
+Based in Sumpter Township. Serving western Wayne, Washtenaw, and northern Monroe
+counties — Belleville, New Boston, Willis, Whittaker, Ypsilanti, Milan, Saline, Canton,
+Flat Rock, Carleton, Monroe, Taylor, Brownstown, and everywhere in between — generally
+within about 25 miles. Farther out? Ask — full-day and multi-day jobs can work.
 
 ---
 
@@ -125,10 +133,10 @@ customers have us back every year or two for a fast, cheaper maintenance pass �
 about it at your walkthrough.
 
 **What does it cost?**
-Most jobs run by the half-day or day. As a rough guide: small jobs start around our
-minimum, and most residential projects land between $1,000 and $4,000 depending on size
-and how thick the vegetation is. Send photos and we'll give you a real number, usually
-the same day.
+Most jobs run by the half-day or day. As a rough guide: small jobs start at $1,200, and
+most residential projects land between $1,200 and $4,000 depending on size and how
+thick the vegetation is. Send photos and we'll give you a real number, usually the same
+day.
 
 **Is mulching better than bulldozing?**
 For brush and small trees, almost always. A dozer rips out roots, topsoil and all, and
@@ -145,6 +153,7 @@ books up fastest, so the earlier you reach out, the better.
 
 **Are you insured?**
 Yes — fully insured, and happy to provide a certificate of insurance on request.
+⚠*(Publish this answer only once the GL policy is confirmed.)*
 
 ---
 

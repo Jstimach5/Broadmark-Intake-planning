@@ -21,17 +21,18 @@
 4. **Reliability ritual** (from `docs/lead-routing-setup.md`): test lead through Meta's
    Lead Ads Testing Tool → SMS + Jobber + Sheet row all fire; compare Meta Leads Center
    count vs. Sheet count.
-5. Check the **equipment coverage gauge**: did gross profit ÷ ~$4,400 hit ≥1.0? What
-   would it take to hit 2.0 next month — more leads, better close rate, or bigger jobs?
+5. Check the **equipment coverage gauge**: did gross profit ÷ ~$3,750 hit ≥1.0? Two
+   straight months ≥1.5 = green light to scale ads past $25/day. What would it take to
+   get there — more leads, better close rate, or bigger jobs?
 
 ## Quarterly — 1 hour
 
 1. **Reprice against actuals:** update the calculator's cost settings from real numbers
    — fuel price, actual gal/hr, tooth life, maintenance spend, insurance.
-2. Compare effective $/machine-hour on completed jobs vs. the $175 floor and $225
-   target. Adjust the rate card if you're consistently above target and still closing
-   well (raise prices) or losing every quote on price (check scope framing before
-   touching rates).
+2. Compare effective $/machine-hour on completed jobs vs. the $190 floor and the $225+
+   day-rate-equivalent target ($250 hourly). Local comps run $1,800–3,000/day and the
+   rate card starts at the bottom of that range — after ~10 jobs and 5+ reviews,
+   raising the day rate toward $2,000–2,200 is the expected move if close rates hold.
 3. Rotate seasonal creative (hunting prep Jul–Sep; pre-book winter work in fall; cut to
    a retargeting ember Nov–Jan).
 4. Review the "later" list and Lost-on-price leads for the seasonal re-text.

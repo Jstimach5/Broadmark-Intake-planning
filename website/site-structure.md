@@ -22,7 +22,7 @@ a hard requirement before Meta will publish a lead form.
 | Land Clearing / Lot Clearing | Small acreage, overgrown lots, lot prep | Ad landing page for the "reclaim your land" angle |
 | Hunting Property: Trails, Food Plots, Shooting Lanes | Speaks hunter-to-hunter | Ad landing page for hunting angles |
 | Before & After Gallery | Proof | Paired photos, captioned with job type + acreage + time taken |
-| Service Area | Local SEO + qualify distance | Map + list of counties/towns; state the travel policy |
+| Service Area | Local SEO + qualify distance | Map pinned at Sumpter Twp, ~25-mi radius: western Wayne, Washtenaw, northern Monroe counties (Belleville, New Boston, Willis, Whittaker, Ypsilanti, Milan, Saline, Canton, Flat Rock, Carleton, Monroe, Taylor, Brownstown) |
 | Quote Request | The conversion page | Embedded Jobber form + phone number + "what happens next" |
 | About | Trust | Owner/operator story, photo of you with the machine, insured statement |
 | Contact | Catch-all | Phone (tap-to-call), form, service area recap |
@@ -34,7 +34,8 @@ a hard requirement before Meta will publish a lead form.
    and **Call/Text [number]**.
 2. **Main offer strip** — one sentence: free quotes, most within 24 hours, most jobs
    done in 1–2 days.
-3. **Trust bar** — Licensed & insured • Owner-operated • [County]-based • Google review
+3. **Trust bar** — Licensed & insured (once policy confirmed) • Owner-operated •
+   Sumpter Township-based • Google review
    stars (once you have 5+) • "You talk to the person running the machine."
 4. **Services grid** — 6 cards with photo + 1-liner: Brush & Overgrowth Clearing,
    Trails & Access Paths, Hunting Property (food plots/shooting lanes), Fence Line
@@ -47,8 +48,8 @@ a hard requirement before Meta will publish a lead form.
    lighter footprint than dozers — no torn-up topsoil or ripped-out root balls.
 7. **Process** — 4 steps: ① send photos & details → ② fast quote → ③ we schedule →
    ④ done, walk-through, invoice. Kills the fear of the "contractor black hole."
-8. **Service area** — map graphic + towns list. "Based in [Town]. Serving within
-   ~[X] miles; farther for full-day+ jobs."
+8. **Service area** — map graphic + towns list. "Based in Sumpter Township. Serving
+   within ~25 miles; farther for full-day+ jobs."
 9. **Quote form** — the full Jobber form embedded (don't make them click away).
 10. **FAQ** — 6–8 questions (drafted in `homepage-copy.md`).
 11. **Final CTA** — repeat hero CTA + phone number.

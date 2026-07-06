@@ -54,15 +54,13 @@ website submissions natively, and for Meta leads when Zap 1 creates the request.
 > don't, install Privyr's free app (native Meta lead ads connection, instant push) as
 > the backup channel for Meta leads.
 
-## SMS by Zapier — known caveats (verified July 2026)
+## SMS by Zapier — caveats (verified July 2026)
 
-- **Does not work if your phone is on T-Mobile's network** (blocked since Feb 2024).
-  If you're on T-Mobile, swap the SMS steps for one of:
-  - **LeadSync** ($16–19/mo, SMS $5/100) — replaces Zapier entirely for Meta→SMS+Jobber,
-    but you lose the automatic Sheet row;
-  - **ClickSend** step inside the same Zaps (~$0.03/msg, $20 minimum top-up) — requires
-    one-time sole-proprietor A2P 10DLC registration ($4 + $15 one-time, $2/mo, allow
-    ~2 weeks for approval).
+- **Carrier check: RESOLVED.** SMS by Zapier doesn't work on T-Mobile-network phones —
+  the owner's carrier is confirmed **Verizon**, which is fully supported, so the default
+  path above works as designed. (If the carrier ever changes to T-Mobile, swap the SMS
+  steps for LeadSync ($16–19/mo, SMS $5/100) or a ClickSend step (~$0.03/msg + one-time
+  sole-prop A2P registration).)
 - 153-character limit (the message format above fits), 15 msgs/hour cap (fine at this
   volume), US-only, one-way.
 

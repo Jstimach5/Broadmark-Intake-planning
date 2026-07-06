@@ -1,34 +1,34 @@
 # Broadmark Forestry Mulching — Lead Generation & Sales Tracking System
 
-A simple, bulletproof inbound lead system for a one-person forestry mulching business
-(Cat 275XE + HM418): **Meta ads + website → instant SMS to your phone → tracked through
-quote → job → invoice → paid**, with reporting that shows which ads create *paid,
-profitable* work — not just leads.
+A simple, bulletproof inbound lead system for Broadmark, a one-person forestry mulching
+business in southeast Michigan (Cat 275XE + HM418): **Meta ads + website → instant SMS
+to your phone → tracked through quote → job → invoice → paid**, with reporting that
+shows which ads create *paid, profitable* work — not just leads.
 
-> All prices, benchmarks, and cost figures were verified via web research in July 2026.
-> Estimates and assumptions are flagged inline where they appear; see
-> [Questions to confirm](#questions-to-confirm-before-going-live) below.
+> All prices, benchmarks, and cost figures were verified via web research in July 2026,
+> then calibrated with the owner's confirmed numbers (loan, goal, local comps, budget) —
+> see [Confirmed facts](#confirmed-facts) below.
 
 ## The system in one paragraph
 
 **Keep Jobber. Add a ~$20/mo routing layer and one Google Sheet. Run one consolidated
-Meta campaign. Price off a rate card with a $1,200 minimum.** Jobber Core (switched to
-annual billing, ~$29/mo) keeps quoting, invoicing, and scheduling. Zapier Professional
-(~$20/mo) syncs Meta lead-ads into Jobber, logs every lead with its campaign + ad name
-to a Google Sheet, and texts your phone within a minute. The website's quote form is
-Jobber's own embeddable request form — zero middleware. One Google Sheet holds the lead
-tracker, the quote calculator, and the dashboard that tells you whether the month
-covered the ~$4,400 equipment payment.
+Meta campaign. Price off a rate card with a $1,200 minimum.** Jobber Core keeps quoting,
+invoicing, and scheduling. Zapier Professional (~$20/mo) syncs Meta lead-ads into
+Jobber, logs every lead with its campaign + ad name to a Google Sheet, and texts your
+phone within a minute (carrier confirmed Verizon — the default SMS path works). The
+website's quote form is Jobber's own embeddable request form — zero middleware. One
+Google Sheet holds the lead tracker, the quote calculator, and the dashboard that tells
+you whether the month covered the ~$3,750 equipment payment.
 
 ## Monthly cost
 
 | Piece | Tool | Cost/mo |
 |---|---|---|
-| CRM / quotes / invoices / schedule | Jobber Core (annual billing) | ~$29 |
+| CRM / quotes / invoices / schedule | Jobber Core | $39 now (monthly billing); switch to annual ~$29 after the next couple jobs land |
 | Meta lead sync + SMS + Sheet logging | Zapier Professional (annual) | ~$20 |
 | Lead tracker + calculator + dashboard | Google Sheets | $0 |
 | Website (builder tier that allows embed code) | Squarespace / Wix / WordPress | ~$15–30 |
-| Ads | Meta | $600–900 to start |
+| Ads | Meta | $750 ($25/day — confirmed budget) |
 
 ## Repo map
 
@@ -54,23 +54,45 @@ covered the ~$4,400 equipment payment.
 
 ## The money math that drives everything
 
-- All-in cost ≈ **$135–155 per machine-hour** *including* your wage and the loan →
-  $150/hr revenue is break-even; **$200+/hr is the healthy floor**.
-- Loan payment ≈ **$4,400/mo** ($220k @ 7–9%, 60 mo — confirm your actual rate/term) ≈
-  **~32 billable machine-hours or ~4–5 typical jobs per month** to cover it.
+Calibrated to the confirmed numbers: **$3,7XX/mo payment (0% loan, ~$202k remaining)**
+and the **$10,000/mo revenue goal within a 25-mile radius** (~5–6 full days ≈ 45–48
+machine-hours/month).
+
+- Loan allocation at the target utilization: $3,750 ÷ ~46 hrs ≈ **$80 per machine-hour**
+  (it falls as you book more hours — see `pricing/calculator-spec.md`).
+- Cash operating cost (fuel, teeth, maintenance, insurance, truck, your wage) ≈
+  **$87/hr** → all-in ≈ **$165–175/hr** at target utilization. Walk-away floor:
+  **$190/hr effective**.
+- A typical full-day job ($1,800 + $150 mobilization) throws off ≈ **$1,250 gross
+  profit** → the payment is covered by **~3 full-day jobs (~27 machine-hours)** per month.
+- At the $10k goal: gross profit ≈ $6,100/mo → **payment coverage ≈ 1.6×** (the 2.0×
+  stretch target = ~$12.5k/mo).
+- **Ad budget reality check:** $750/mo ÷ ~$40/lead ≈ 18 leads → at ~15% lead-to-job ≈
+  **2–3 jobs ≈ $5–6k/mo from paid ads** — roughly half the goal. The other half comes
+  from Google Business Profile (free), referrals, repeat/maintenance work, and the
+  existing Facebook audience. Scale the ad budget only after coverage holds ≥1.5 for two
+  straight months.
 - Ads are judged monthly on **cost per WON job**, never cost per lead.
 
-## Questions to confirm before going live
+## Confirmed facts
 
-None of these block the build — assumptions are labeled where used — but each sharpens a number:
+| # | Question | Answer |
+|---|---|---|
+| 1 | Phone carrier | **Verizon** → SMS by Zapier works as designed (T-Mobile was the only blocker) |
+| 2 | Base + radius | **36440 Northline Rd, Romulus MI** / Judd & Rawsonville Rd, **Sumpter Twp** — 25-mile radius, SE Michigan |
+| 3 | Loan | **$3,7XX/mo exact, ~$202k remaining, 60-month 0% interest** (~54 payments left) |
+| 4 | Goal | **$10,000/mo in work**, all local |
+| 5 | Local comps | Estimated **$1,800–3,000 per 8-hr day** → rate card anchored to the bottom of that range |
+| 6 | Creative | Photos/videos exist on the Facebook page + Google Photos |
+| 7 | Name | **Broadmark** is the customer-facing name |
+| 9 | Ad budget | **$25/day** (~$750/mo) |
+| 10 | Sales tax | Not needed now |
+| — | Jobber annual billing | **Deferred** until a couple more jobs land; staying monthly ($39) for now |
 
-1. **Phone carrier?** SMS by Zapier does not work on T-Mobile (fallback documented in `docs/lead-routing-setup.md`).
-2. **Base location + real service radius?** Sets ad geo, travel tiers, seasonality, and the local rate tier.
-3. **Exact loan rate and term?** Payment estimated at $4,356–4,567/mo (7–9%, 60 mo).
-4. **Current and target billable machine-hours per month?** Cost allocation assumes ~83/mo.
-5. **What do local competitors charge?** Calibrate the rate card with 2–3 real comps.
-6. **What photos/videos exist today?** Determines whether ads launch week 4 or need 1–2 jobs shot first.
-7. **Is "Broadmark" the customer-facing name? Existing domain / Google Business Profile / Facebook page?**
-8. **Current insurance coverage and annual cost?** Feeds the calculator's $/hr.
-9. **Ad budget comfort?** Plan assumes $600–900/mo; below ~$450/mo the data is too slow to learn from.
-10. **Your state's sales-tax treatment of land-clearing services?** Affects quoting language and Jobber invoice setup.
+## Still open (each sharpens a number — none block the build)
+
+1. **Exact loan payment digits** ($3,7XX) — enter into the calculator and dashboard.
+2. **Insurance** — unknown. ⚠ **This one gates launch**: the website and ads say
+   "insured," so confirm the general liability policy (or get one, ~$1.5–4k/yr for $1M
+   GL) *before* publishing that claim. It's also real risk working on customer property.
+3. **Domain** — e.g. `broadmarkmulching.com`; check availability at website build.

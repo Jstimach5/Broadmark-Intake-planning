@@ -1,12 +1,15 @@
 # System Stack Decision
 
-## The decision: KEEP JOBBER (Core plan, switch to annual billing)
+## The decision: KEEP JOBBER (Core plan)
 
-Verified July 2026: Jobber Core is $39/mo billed monthly, **~$28–29/mo billed annually** —
-switching to annual keeps you at your current ~$30 budget. Core natively covers the entire
-lead→quote→job→invoice→paid pipeline, unlimited quotes/invoices, scheduling, an
-**embeddable website request form**, and **instant push notifications to your phone** when
-a request comes in. No alternative at ≤$30/mo does all of that.
+Verified July 2026: Jobber Core is $39/mo billed monthly, **~$28–29/mo billed annually**.
+Core natively covers the entire lead→quote→job→invoice→paid pipeline, unlimited
+quotes/invoices, scheduling, an **embeddable website request form**, and **instant push
+notifications to your phone** when a request comes in. No alternative at ≤$30/mo does
+all of that.
+
+**Billing:** staying on monthly ($39) for now — the annual switch (~$10/mo saved) is
+deferred until the next couple of jobs land and cash flow allows the upfront annual charge.
 
 ## Options compared
 
@@ -17,15 +20,15 @@ a request comes in. No alternative at ≤$30/mo does all of that.
 | C. Google Forms/Sheets only | $0–20 | ❌ none — you'd lose quoting/invoicing/scheduling | Via Zapier | Hard — free email-to-SMS gateways are dead (AT&T 6/2025, T-Mobile 12/2024, Verizon dying 3/2027) | Medium | Medium (everything manual) | DIY | Downgrade — saves $29, costs hours |
 | D. Switch CRM (Bigin $7–12, HubSpot Free, GHL $97) | $0–97 | Bigin: ❌ (needs Zoho Invoice bolt-on) · HubSpot: ❌ invoicing not free · GHL: ✅ | Bigin: ✅ native · HubSpot: ✅ native · GHL: ✅ | Only GHL has real SMS | High (rebuild everything) | Medium | Mixed | GHL is 3× budget; others lose invoicing. **No clear win → don't switch** |
 
-## Recommended stack (Option B) — total ~$65–80/mo all-in
+## Recommended stack (Option B) — total ~$75–90/mo all-in (drops ~$10 after the annual Jobber switch)
 
 | Piece | Tool | Cost | Why it's needed |
 |---|---|---|---|
-| CRM / quotes / invoices / schedule | **Jobber Core (annual)** | ~$29/mo | Already yours; does the whole job pipeline natively |
+| CRM / quotes / invoices / schedule | **Jobber Core** | $39/mo now (monthly); ~$29/mo once switched to annual | Already yours; does the whole job pipeline natively |
 | Meta lead sync + SMS + Sheet logging | **Zapier Professional (annual)** | ~$20/mo | FB Lead Ads is a premium Zapier app (paid plan required). One hub runs everything: Meta lead → Jobber request + Sheet row + SMS. 750 tasks/mo ≈ 200+ leads/mo of headroom |
 | Lead tracker + pricing calculator + dashboard | **Google Sheets** | $0 | Jobber Core's reporting can't answer "which ad produced paid, profitable work" — one Sheet does |
 | Website | Simple builder (Squarespace/Wix/WordPress) that allows embed code | ~$15–30/mo | Landing pages for ads, trust, SEO; hosts the Jobber request form + privacy policy (required by Meta lead ads) |
-| Ads | Meta | $600–900/mo starting | The lead source |
+| Ads | Meta | $750/mo ($25/day — confirmed budget) | The lead source |
 
 ## Cheaper variant
 

@@ -3,6 +3,13 @@
 > Structure/budgets in [`campaign-plan.md`](campaign-plan.md) — at this budget these six
 > "campaigns" run as **ad angles rotated inside one consolidated Leads campaign** (plus
 > one retargeting campaign), not six separate campaigns.
+>
+> Local anchors to use across all copy: "southeast Michigan", "western Wayne, Washtenaw
+> & Monroe counties", town names (Belleville, New Boston, Willis, Ypsilanti, Milan,
+> Saline, Flat Rock, Carleton).
+>
+> ⚠ **Do not use "insured" in any ad until the general liability policy is confirmed**
+> (see README → Still open). Every other claim below is safe to run now.
 
 ## Angle 1 — "Reclaim Your Overgrown Land" (reclaim + before/after + small acreage)
 
@@ -10,7 +17,7 @@
 - **Problem:** Land they can't use or even walk; embarrassment; snakes/ticks; "it got away from us"
 - **Offer/angle:** Transformation in a day — show the before/after, no burn piles, no mess left behind
 - **Headline:** *"Take Your Land Back — Cleared in a Day"*
-- **Primary text:** "That overgrown section you've been avoiding? We turn thick brush and saplings into clean, walkable ground in a day — no bulldozer, no burn piles, nothing to haul away. The brush gets ground into mulch that protects your soil. Send us a couple photos and get a quote, usually same day."
+- **Primary text:** "That overgrown section you've been avoiding? We turn thick brush, autumn olive, and saplings into clean, walkable ground in a day — no bulldozer, no burn piles, nothing to haul away. The brush gets ground into mulch that protects your soil. Serving western Wayne, Washtenaw & Monroe counties. Send us a couple photos and get a quote, usually same day."
 - **CTA button:** Get Quote
 - **Destination:** Meta instant form (short version) — highest volume angle; the form converts better than the site for this audience
 - **Creative:** Split-screen before/after image; 20–30s vertical video of thick brush → clean pass
@@ -22,8 +29,8 @@
 - **Target:** Hunting-land & deer-property owners; interests: whitetail hunting, food plots, onX Hunt, QDMA/deer management, Mossy Oak, land ownership; men 28–65; widen radius (hunters drive)
 - **Problem:** Can't access parts of the property; no shooting lanes; food plot spots locked in brush; want the place ready before season
 - **Offer/angle:** Seasonal urgency — "ready by opening day"; talks hunter-to-hunter
-- **Headline:** *"Get Your Hunting Property Ready Before Season"*
-- **Primary text:** "Shooting lanes, food plot sites, and access trails — cut clean with a forestry mulcher, not ripped up with a dozer. Mulched trails stay walkable and quiet, and deer use the edges. Book summer work now so your property is ready before opening day. Tell us what you want opened up and get a quote."
+- **Headline:** *"Ready Before the October 1 Opener?"*
+- **Primary text:** "Shooting lanes, food plot sites, and access trails — cut clean with a forestry mulcher, not ripped up with a dozer. Mulched trails stay walkable and quiet, and deer use the edges. Michigan archery opens October 1 and firearm November 15 — book summer work now so your property is ready, not torn up, when it counts. Tell us what you want opened up and get a quote."
 - **CTA:** Get Quote
 - **Destination:** Instant form; also run a traffic variant to the Hunting Property page for retargeting
 - **Creative:** Trail-cut POV video; food-plot-edge before/after; drone line of a cut shooting lane
@@ -69,7 +76,7 @@
 - **Target:** RETARGETING ONLY — video viewers (50%+), page engagers, site visitors, form-openers who didn't submit (past 30–60 days)
 - **Problem:** Saw you, didn't act; needs a trust nudge and a reason now
 - **Headline:** *"Still Looking at That Overgrown Spot? Quotes Are Free."*
-- **Primary text:** "Owner-operated, fully insured, purpose-built Cat forestry mulcher — not a rental with a brush hog. You talk directly to the person running the machine. Send 2–3 photos, get a real number, usually same day. [Season note: summer/fall schedule is filling.]"
+- **Primary text:** "Owner-operated, fully insured ⚠*(drop "fully insured" until the GL policy is confirmed)*, purpose-built Cat forestry mulcher — not a rental with a brush hog. You talk directly to the person running the machine. Send 2–3 photos, get a real number, usually same day. [Season note: summer/fall schedule is filling.]"
 - **CTA:** Get Quote → instant form
 - **Creative:** Equipment beauty shot + your face; 15s "here's how a quote works" clip; review screenshot once available
 - **Lead quality:** Highest close rate of any angle — warm audience

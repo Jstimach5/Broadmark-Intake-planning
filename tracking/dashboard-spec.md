@@ -8,10 +8,11 @@ COUNTIFS/SUMIFS filtered by month and by the exact Status values in
 
 ## Monthly targets (displayed at the top)
 
-- Revenue target ($)
-- Gross profit target ($)
-- **Jobs needed to cover the equipment payment** = $4,400 ÷ average gross profit per job
-  — starts at ~4–5 jobs and self-corrects as real data accumulates.
+- Revenue target: **$10,000/mo** (confirmed goal ≈ 5–6 full days ≈ 45–48 machine-hours)
+- Gross profit target: **~$6,100/mo** (revenue − ~$87/hr cash cost)
+- **Jobs needed to cover the equipment payment** = $3,750 (enter exact $3,7XX) ÷ average
+  gross profit per job — starts at **~3 full-day jobs** and self-corrects as real data
+  accumulates.
 
 ## Block A — Lead flow (this month + last 3)
 
@@ -35,8 +36,10 @@ COUNTIFS/SUMIFS filtered by month and by the exact Status values in
   advertise more**
 - Lost reasons breakdown
 - **Equipment coverage gauge:** monthly gross profit ÷ monthly equipment payment
-  (~$4,400 — confirm actual). Needs ≥ 1.0 before owner pay; target ≥ 2.0. Rule of thumb:
-  the payment = ~32 machine-hours or ~3–5 typical jobs per month.
+  ($3,750 placeholder — enter the exact $3,7XX). Needs ≥ 1.0 before owner pay. At the
+  $10k/mo goal the gauge reads ~1.6; the 2.0 stretch = ~$12.5k/mo. Rule of thumb: the
+  payment = ~27 machine-hours or ~3 full-day jobs per month. **The gauge holding ≥1.5
+  for two straight months is the trigger to scale the ad budget past $25/day.**
 
 ## Block D — Ad decisions (monthly)
 

@@ -4,13 +4,15 @@
 
 ## Phase 1 — Foundation (Week 1, mostly desk work)
 
-- [ ] ▲ Answer the 10 questions in [`README.md`](README.md#questions-to-confirm-before-going-live) (carrier, loan terms, service radius, local comps)
-- [ ] ▲ Positioning one-liner: "[Region]'s owner-operated forestry mulching — cleared in a day, no piles, no torn-up ground" (adjust to taste; used everywhere)
-- [ ] ▲ Switch Jobber to annual billing (~$10/mo saved)
+- [x] ▲ Answer the 10 questions in [`README.md`](README.md#confirmed-facts) — done; still open: exact $3,7XX payment digits, insurance, domain
+- [ ] ▲ **Confirm or obtain general liability insurance** — gates every "insured" claim on the site and in ads, and it's real risk on customer property (~$1.5–4k/yr for $1M GL; get 2–3 quotes)
+- [ ] ▲ Enter the exact $3,7XX loan payment into the calculator and dashboard
+- [ ] ▲ Positioning one-liner: "Southeast Michigan's owner-operated forestry mulching — cleared in a day, no piles, no torn-up ground" (adjust to taste; used everywhere)
 - [ ] ▲ Build the Google Sheet: Tab 1 lead tracker ([template](tracking/lead-tracker-template.csv)), Tab 2 quote calculator ([template](pricing/calculator-template.csv)), Tab 3 dashboard ([spec](tracking/dashboard-spec.md))
-- [ ] ▲ Set your rate card numbers in the calculator; sanity-check against 2–3 local competitor quotes
+- [ ] ▲ Pull the 10–15 best photos/clips from the Facebook page + Google Photos into one creative folder (tag each by angle: reclaim / fence line / trail / hunting / equipment)
 - [ ] ▲ Configure the Jobber request form with the fields in [`website/quote-form-fields.md`](website/quote-form-fields.md)
-- [ ] ○ Register/confirm domain + business email
+- [ ] ○ Switch Jobber to annual billing (~$10/mo saved) — deferred until the next couple jobs land
+- [ ] ○ Register/confirm domain (e.g. broadmarkmulching.com) + business email
 
 ## Phase 2 — Website (Weeks 2–3)
 
@@ -28,7 +30,7 @@
 - [ ] ▲ Build the instant form (fields + settings in [`ads/campaign-plan.md`](ads/campaign-plan.md): More Volume, privacy URL, auto-thank-you message)
 - [ ] ▲ Create Zap 1 and Zap 2 ([setup guide](docs/lead-routing-setup.md)); send a test lead via Meta's Lead Ads Testing Tool; confirm SMS + Jobber request + Sheet row
 - [ ] ▲ Name campaigns/ads per the convention in the campaign plan (names freeze into tracking at first publish)
-- [ ] ▲ Launch Campaign 1 with 3 ads (Reclaim before/after, Fence line, Mulching-vs-dozer) at $20–30/day
+- [ ] ▲ Launch Campaign 1 with 3 ads (Reclaim before/after, Fence line, Mulching-vs-dozer) at $25/day, 25-mi radius pinned at the Sumpter base
 - [ ] ○ Retargeting campaign (month 2, once audiences exist)
 - [ ] ○ Landing-page variant test (month 2–3)
 
