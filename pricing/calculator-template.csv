@@ -1,0 +1,43 @@
+FORESTRY MULCHING QUOTE CALCULATOR,
+Edit INPUT values in column B. Computed cells update automatically. Format rows 37 & 39 as percent.,
+,
+JOB INPUTS,
+Estimated machine hours,8
+Travel time round trip (hours),1
+Distance one-way (miles),20
+Difficulty multiplier (1.0 normal / 1.25 thick-steep / 1.5 rocky-heavy),1.0
+Mobilization charge ($),150
+,
+COST SETTINGS (review quarterly),
+Fuel burn (gal/hr),5.5
+Fuel price ($/gal),5.25
+Tooth wear ($/hr — use 15 for rocky ground),5
+Maintenance + tracks ($/hr),12
+Operator wage ($/hr),30
+Insurance ($/hr),7
+Loan allocation ($/hr),53
+Truck cost ($/mile),1.20
+Target margin (0.30 = 30%),0.30
+Monthly equipment payment ($),4400
+,
+RATE CARD,
+Hourly rate ($/hr — 3-hr minimum),225
+Half-day rate (~4 hrs on site),950
+Full-day rate (~8 hrs on site),1700
+Multi-day rate ($/day),1600
+,
+COMPUTED,
+Fuel cost ($/hr),=B12*B13
+Direct cash cost ($),"=B5*(B30+B14+B15+B16+B17)+B6*B16+B7*2*B19"
+Full cost incl. loan ($),=B31+B5*B18
+Cost-plus quote ($),"=ROUND(B32*(1+B20),0)"
+Rate-card quote ($ — enforces $1200 minimum),"=ROUND(MAX(1200,IF(B5<=3,3*B24,IF(B5<=4.5,B25,IF(B5<=8.5,B26,CEILING(B5/8,1)*B27)))*B8+B9),0)"
+QUOTE — use this (higher of the two) ($),"=MAX(B33,B34)"
+Expected gross profit ($),=B35-B31
+Gross profit %,"=ROUND(B36/B35,2)"
+Effective rate ($/machine-hour),"=ROUND(B35/B5,0)"
+Covers this share of monthly payment,"=ROUND(B36/B21,2)"
+,
+SANITY FLAGS,
+Rate floor check,"=IF(B38<175,""RED — below $175/hr walk-away floor"",""OK"")"
+Margin check,"=IF(B37<0.25,""RED — gross profit under 25%"",""OK"")"
