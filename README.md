@@ -34,7 +34,8 @@ you whether the month covered the ~$3,750 equipment payment.
 
 | Path | What it is |
 |---|---|
-| [`checklist.md`](checklist.md) | **Start here** — the phased build checklist (must-have vs. later) |
+| [`LAUNCH-PLAN.md`](LAUNCH-PLAN.md) | **Start here to implement** — self-contained launch runbook (phases A–F, owner inputs, go/no-go test) |
+| [`checklist.md`](checklist.md) | The phased build checklist (must-have vs. later) |
 | [`docs/system-stack.md`](docs/system-stack.md) | The CRM decision and full stack comparison (Options A–D) |
 | [`docs/lead-routing-setup.md`](docs/lead-routing-setup.md) | Step-by-step Zap configuration, SMS plan, reliability ritual |
 | [`docs/pipeline.md`](docs/pipeline.md) | Pipeline statuses and the fields tracked on every lead |
