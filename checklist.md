@@ -9,7 +9,7 @@
 - [ ] ▲ Enter the exact $3,7XX loan payment into the calculator and dashboard
 - [ ] ▲ Positioning one-liner: "Southeast Michigan's owner-operated forestry mulching — cleared in a day, no piles, no torn-up ground" (adjust to taste; used everywhere)
 - [ ] ▲ Build the Google Sheet: Tab 1 lead tracker ([template](tracking/lead-tracker-template.csv)), Tab 2 quote calculator ([template](pricing/calculator-template.csv)), Tab 3 dashboard ([spec](tracking/dashboard-spec.md))
-- [ ] ▲ Sort the "broadmark photos" before/after set (Downloads folder) into the creative catalog — share the file into the Claude session or Google Drive, then fill [`ads/creative-library.md`](ads/creative-library.md) (8–12 keepers, renamed, mapped to ad angles; ~20 min)
+- [x] ▲ Sort the before/after photo set into the creative catalog — **7 of 21 keepers committed to `assets/photos/`; Reclaim, Mulching-vs-Dozer, and Retargeting angles have launch-ready creative.** Remaining: drag the 14 listed in [`ads/creative-library.md`](ads/creative-library.md) into the chat
 - [ ] ▲ Configure the Jobber request form with the fields in [`website/quote-form-fields.md`](website/quote-form-fields.md)
 - [ ] ○ Switch Jobber to annual billing (~$10/mo saved) — deferred until the next couple jobs land
 - [ ] ○ Register/confirm domain (e.g. broadmarkmulching.com) + business email

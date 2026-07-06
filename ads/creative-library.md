@@ -1,75 +1,58 @@
 # Creative Library — Broadmark Before/After Photos
 
-**Source:** the "broadmark photos" file in the Downloads folder (before/after job
-photos). Before/after pairs are the highest-converting creative in this niche — this
-set drives the first 3 launch ads and the website hero/gallery.
+**Status: 7 of 21 curated originals committed** to [`assets/photos/`](../assets/photos/) —
+enough to launch the three core ads. The owner's curated keeper list (from the Canva
+folder) is 21 photos; the remaining 14 originals get added as they're uploaded.
+Originals live in Google Drive + Canva; the repo carries web-ready 1600px JPEGs.
 
-> **Status: awaiting the photos.** This cloud session can't see a local Downloads
-> folder. Two ways to get them in:
-> 1. **Upload the file (zip or images) directly into the Claude chat** — fastest; the
->    catalog below gets filled in and the selected files committed to `assets/photos/`.
-> 2. **Put the file in Google Drive** and approve the Google Drive connector when the
->    permission prompt appears — it can then be searched, downloaded, and cataloged.
+## Committed and assigned
 
-## Selection bar (what makes the cut)
-
-- **Same-angle pairs beat mismatched ones** — a before and after shot from the same
-  spot is the money format; mismatched pairs still work but rank lower.
-- **Thick-brush-to-clean beats subtle** — the more hopeless the "before" looks, the
-  better the ad performs.
-- **A striking "after" is usable even unpaired** (gallery, retargeting, About page).
-- Aim for **8–12 keepers** total; more dilutes the sort, fewer starves the gallery.
-
-## Renaming convention (attribution depends on this)
-
-`BA-{subject}-{location}-{nn}-before.jpg` / `...-after.jpg`
-
-Examples: `BA-pasture-belleville-01-before.jpg`, `BA-fenceline-sumpter-02-after.jpg`,
-`BA-trail-willis-03-after.jpg`. The `{subject}` should match an ad angle: `pasture`,
-`brush`, `fenceline`, `trail`, `lane` (shooting lane), `plot` (food plot), `lot`,
-`pond`.
-
-## Catalog (fill one row per selected photo/pair)
-
-| # | Filename (renamed) | What it shows | Assigned angle / website slot | Suggested caption | Notes |
+| File | What it shows | Taken | Job location (GPS, confirm) | Assigned to | Suggested caption |
 |---|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
-| 6 | | | | | |
-| 7 | | | | | |
-| 8 | | | | | |
+| `BA-brush-01-before.jpg` | Impenetrable wall of brush, vines, saplings | Feb 24, 2:10pm | Sumpter Twp | **Ad: Reclaim Your Overgrown Land** (before frame) + gallery | "This thicket at 2pm…" |
+| `BA-brush-01-after-machine.jpg` | Cat 275XE + mulcher head on clean mulched ground, same spot | Feb 24, 3:30pm | Sumpter Twp | **Ad: Reclaim** (after frame) + **retargeting/equipment** + website equipment section | "…clean, walkable ground by 3:30. Same day. Sumpter Township." |
+| `BA-woods-02-during.jpg` | From behind machine: remaining brush pile in woods, cleared ground in front | Apr 6 | Northville/Novi area | **Ad: Mulching-vs-Dozer** (problem frame) + problem-shot hook | "Halfway through a wooded backyard cleanup" |
+| `BA-woods-02-after-a.jpg` | Park-like cleared understory between mature trees | Apr 6 | Northville/Novi area | **Ad: Mulching-vs-Dozer** (finish frame) + gallery + Forestry Mulching page hero | "Underbrush gone, trees untouched, ground intact" |
+| `BA-woods-02-after-b.jpg` | Wide sunlit cleared woods, mulched floor | Apr 6 | Northville/Novi area | Gallery + website homepage before/after section | "A woods you can actually walk through — 1 day" |
+| `BA-woods-02-after-context.jpg` | Cleared understory with house in background | Apr 6 | Northville/Novi area | **Reclaim ad variant** (residential context) + Land Clearing page | "Your backyard woods, usable again" |
+| `BA-fieldedge-03-after.jpg` | Open green field, cleaned brush line at rear edge | Apr 30 | Romulus area | Gallery + Service Area page + fence-line ad placeholder until a true fence shot lands | "Field edge opened back up — Romulus" |
 
-**Assignment targets** (each needs at least one creative before its ad runs):
+**The February pair is the launch asset**: same spot, 80 minutes apart, winter work —
+it proves the one-day promise AND the frozen-ground winter capability in two frames.
 
-| Destination | Needs | Filled by (#) |
-|---|---|---|
-| Angle 1 — Reclaim Your Overgrown Land (launch ad) | Best overall before/after pair | |
-| Angle 3 — Mulching vs. Dozer (launch ad) | Clean-finish "after" showing intact ground | |
-| Angle 4 — Fence Line Cleanup (launch ad) | Fence line pair, or best strip-clearing pair | |
-| Angle 2 — Hunting Prep (Jun–Sep) | Trail / lane / plot-edge pair | |
-| Angle 5 — Trails & Access | Finished trail shot | |
-| Angle 6 — Retargeting | Equipment beauty shot or standout after | |
-| Website hero | Single strongest action or after shot | |
-| Website gallery | 3–4 pairs with town captions ("2 acres of overgrown pasture — 1 day. Belleville.") | |
-| About page | Any shot with you/the rig in frame | |
+## Awaiting originals (14 — drag into the chat in these batches)
 
-Caption format for gallery/ads: `"[Size] of [vegetation] — [time taken]. [Town]."`
+1. IMG_0405, 0586, 0587, 0591
+2. IMG_0618, 0623, 0624, 0626
+3. IMG_0627, 0634, 1055, 1058
+4. IMG_1059, 1064, 1079, 8037, 9327, 9613, 9980 (split if needed)
 
-## Gap list — what the photo set can't cover (from `shot-list.md`)
+Reserved rows get filled (subject, assignment, caption) as each arrives. Series note:
+1055–1079 / 8037 / 9327 / 9613 / 9980 are jobs not present in the Drive folder — new
+material, likely including the missing angles below.
 
-Existing before/after photos likely satisfy shot **#2** (anchored pairs) and possibly
-**#14** (problem shots — any standalone "before" works). Still missing and needed from
-the next jobs, in priority order:
+## Coverage vs. the six ad angles
 
-1. **#3 Timelapse clear** (tripod, 30–60s) — the highest-performing ad format
-   (15s before/after video reportedly beats statics 3–5×)
-2. **#1 Hero action** (machine mid-mulch, golden hour) — website hero
-3. **#7 Mulcher close-up slow-mo** — Reels hook
-4. **#9 Operator intro** (20–30s to camera) — trust; also unlocks the retargeting angle
-5. **#12 Cab POV** — cheap organic Reels content
+| Angle | Creative status |
+|---|---|
+| 1. Reclaim Your Overgrown Land | ✅ READY — brush-01 pair |
+| 2. Hunting Property Prep | ⏳ awaiting uploads (trail/lane shots expected in remaining 14) |
+| 3. Mulching vs. Dozer | ✅ READY — woods-02 set |
+| 4. Fence Line Cleanup | ⏳ fieldedge-03 is a stand-in; needs a true fence-row shot |
+| 5. Trails & Access | ⏳ awaiting uploads |
+| 6. Credibility/Retargeting | ✅ READY — brush-01-after-machine |
 
-Everything else on the 14-shot list accumulates naturally per the standing rule: every
-job produces minimum 1 before/after pair + 1 vertical clip.
+## Still-missing shots (from the 14-shot list — capture on upcoming jobs)
+
+1. **Timelapse clear** (tripod, 30–60s) — top priority; 15s before/after video beats statics 3–5×
+2. **Hero action** — machine mid-mulch, chips flying, golden hour (website hero)
+3. **Operator intro** — 20–30s to camera (About page + retargeting)
+4. **Fence line tracking shot** — half-cleared fence row in one frame
+5. **Cab POV** — phone mount, one pass through heavy brush
+
+## Production note — Canva
+
+All 21 curated photos are uploaded to the owner's Canva folder
+(`canva.com/folder/FAHOn4pcrTk`). Ad creative assembly (before/after split-screens,
+headline overlays, 1:1 and 9:16 crops) can be built programmatically in that Canva
+account from these assets — the next build step after the catalog completes.
